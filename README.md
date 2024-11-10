@@ -1,7 +1,7 @@
 # EduQuest Edtech Project
-# EduQuest Online Education Platform (MERN App) [Website Link](https://EduQuest-frontend.vercel.app/)
+# EduQuest Online Education Platform (MERN App) 
 
-![Main Page](images/mainpage.png)
+
 
 ## Project Description
 
